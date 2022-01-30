@@ -3,7 +3,7 @@
 ### App Description
  Basic android app with multiple user-interactive buttons that change the color of the text and background. Also allows the user to input their own custom text to display on the screen.
 
-### App Walk-though (incomplete)
+### App Walkthough
 
 <img src="https://imgur.com/a/FqnGG3y" width=200><br>
 
