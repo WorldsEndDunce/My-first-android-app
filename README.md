@@ -5,7 +5,7 @@
 
 ### App Walkthough
 
-<img src="https://imgur.com/a/FqnGG3y" width=200><br>
+<gif src="https://imgur.com/a/FqnGG3y" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
